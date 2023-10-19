@@ -1,3 +1,3 @@
 # ipop
 
-# INFORME PERSONAL D’ORIENTACIÓ PROFESSIONAL
+! [logo] (https://www.sapalomera.cat/wp-content/themes/SaPalomeraTheme/img/logo-institut-sapalomera.png)
